@@ -1,0 +1,23 @@
+.app__header {
+    background-color: var(--color-black);
+}
+
+.app__header-h1 {
+    font-family: var(--font-base);
+    color: var(--color-golden);
+    letter-spacing: 0.004em;
+    text-transform: uppercase;
+    line-height: 117px;
+    font-size: 90px;
+}
+
+/* "Overided by Global wrapper img"
+.app__wrapper_img img{
+    width: 110%;
+} */
+
+@media screen and (max-width: 450px){
+    .app__header-h1 {
+        font-size: 70px;
+    }
+}
