@@ -6,7 +6,7 @@ import { images } from '../../constants';
 import './Footer.css';
 
 const Footer = () => (
-  <div className='app__footer section__padding'>
+  <div className='app__footer section__padding' id='offer'>
     <FooterOverlay />
     <Newsletter />
 
@@ -14,8 +14,8 @@ const Footer = () => (
       <div className='app__footer-links_contact'>
         <h1 className='app__footer-headtext'>Contact Us</h1>
         <p className='p__opensans'>Ruko Green Land Blok C No.5 & 6, Teluk Tering, Batam Center</p>
-        <p className='p__opensans'>0812 705 3381</p>
-        <p className='p__opensans'>0811 777 0123</p>
+        <p className='p__opensans'>0811 111 1111</p>
+        <p className='p__opensans'>0812 222 2222</p>
       </div>
       <div className='app__footer-links_logo'>
         <img src={images.logobulog} alt="footer_logo" />

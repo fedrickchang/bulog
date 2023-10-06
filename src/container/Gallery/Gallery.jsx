@@ -4,7 +4,7 @@ import { SubHeading } from '../../components';
 import { images } from '../../constants';
 import './Gallery.css';
 
-const galleryImages = [images.ayamgorengbawang, images.kailan, images.udanggoreng, images.nasigoreng, images.gallery02, images.jerukmurni, images.cajo]
+const galleryImages = [images.ayamgorengbawang, images.kailan, images.brokoli, images.nasigoreng, images.gallery02, images.jerukmurni, images.kelapa]
 
 const Gallery = () => {
   const scrollRef = React.useRef(null);

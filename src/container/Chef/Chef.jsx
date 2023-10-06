@@ -5,7 +5,7 @@ import { images } from '../../constants'
 import './Chef.css';
 
 const Chef = () => (
-  <div className='app__bg app__wrapper section__padding'>
+  <div className='app__bg app__wrapper section__padding' id='profile'>
     <div className='app__wrapper_img app__wrapper_img-reverse'>
       <img src={images.meshadow} alt="chef" />
     </div>

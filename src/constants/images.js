@@ -26,7 +26,7 @@ import logobulog from '../assets/Logo_Bulog.png';
 import me from '../assets/me.png';
 import meshadow from '../assets/meshadow.png';
 import ttd from '../assets/ttd.png';
-import saba from '../assets/saba.png';
+import saba from '../assets/saba.jpg';
 import pari from '../assets/pari.jpg';
 import airputih from '../assets/airputih.png';
 import ayamgorengbawang from '../assets/ayamgorengbawang.png';
@@ -34,9 +34,9 @@ import cajo from '../assets/cajo.png';
 import jerukmurni from '../assets/jerukmurni.png';
 import kailan from '../assets/kailan.png';
 import nasigoreng from '../assets/nasigoreng.png';
-import udanggoreng from '../assets/udanggoreng.png';
+import brokoli from '../assets/brokoli.png';
+import kelapa from '../assets/kelapa.png';
 import maps from '../assets/maps.png';
-
 
 export default {
   bg,
@@ -75,6 +75,7 @@ export default {
   jerukmurni,
   kailan,
   nasigoreng,
-  udanggoreng,
+  brokoli,
+  kelapa,
   maps,
 };

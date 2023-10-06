@@ -74,11 +74,11 @@
 
 }
 
-@media screen and (max-width : 650px) {
+/* @media screen and (max-width : 650px) {
     .app__footer{
-        padding: 0 0 2rem 0;
+        padding: 0 0 20rem 0;
     }
-}
+} */
 
 @media screen and (max-width : 350px) {
     .app__footer-links_logo img:first-child {
